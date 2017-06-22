@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    commention (0.0.4)
+      byebug (= 9.0.6)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  commention!
+
+BUNDLED WITH
+   1.14.6
